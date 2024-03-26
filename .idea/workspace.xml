@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="3-Scope Function">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/4-ExtensionFunction.kt" afterDir="false" />
+    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="4-Extension Function">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/5-HigherOrderFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711343865112</updated>
       <workItem from="1711343866148" duration="15716000" />
-      <workItem from="1711429275326" duration="13130000" />
+      <workItem from="1711429275326" duration="13954000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Function">
       <option name="closed" value="true" />
@@ -117,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711438547844</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4-Extension Function">
+      <option name="closed" value="true" />
+      <created>1711448347311</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711448347311</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +135,7 @@
     <MESSAGE value="Basic Function" />
     <MESSAGE value="2-Infix Function" />
     <MESSAGE value="3-Scope Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="3-Scope Function" />
+    <MESSAGE value="4-Extension Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="4-Extension Function" />
   </component>
 </project>
