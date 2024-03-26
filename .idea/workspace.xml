@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="Basic Function">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/2-InfixFunction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="2-Infix Function">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/3-ScopeFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Functions/1-Basics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/1-Basics.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711343865112</updated>
       <workItem from="1711343866148" duration="15716000" />
-      <workItem from="1711429275326" duration="2843000" />
+      <workItem from="1711429275326" duration="6281000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Function">
       <option name="closed" value="true" />
@@ -95,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711361623339</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2-Infix Function">
+      <option name="closed" value="true" />
+      <created>1711433427688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711433427688</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Function" />
+    <MESSAGE value="2-Infix Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-Infix Function" />
   </component>
 </project>
