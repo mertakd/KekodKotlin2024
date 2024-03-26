@@ -3,6 +3,7 @@ package Functions
 import java.util.Locale
 
 /**
+ * Tekrar edilen her durum için fonksiyonlar yazılır. Bu sayede her yerde değişiklik yapmak zorunda kalmayacağız, tek bir fonksiyonda değişiklik yapmamız yetecek.
  * fu keyword'u ile fonksiyonlar başlar
  * fonksiyon ismi verilir.
  * parametre parantezleri açılır ve parantezler girilir.
