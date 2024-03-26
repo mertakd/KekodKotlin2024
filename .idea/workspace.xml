@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="2-Infix Function">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/3-ScopeFunction.kt" afterDir="false" />
+    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="3-Scope Function">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/4-ExtensionFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <recent name="C:\Users\mert_\Documents\GithubProjects\KekodKotlin2024\KekodKotlin\src\main\kotlin\Functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1_BasicsKt">
+  <component name="RunManager" selected="Kotlin._4_ExtensionFunctionKt">
     <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Functions.FunctionsKt" />
       <module name="KekodKotlin.main" />
@@ -67,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_4_ExtensionFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions._4_ExtensionFunctionKt" />
+      <module name="KekodKotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._4_ExtensionFunctionKt" />
         <item itemvalue="Kotlin._1_BasicsKt" />
         <item itemvalue="Kotlin.FunctionsKt" />
       </list>
@@ -83,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711343865112</updated>
       <workItem from="1711343866148" duration="15716000" />
-      <workItem from="1711429275326" duration="6281000" />
+      <workItem from="1711429275326" duration="13130000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Function">
       <option name="closed" value="true" />
@@ -101,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711433427688</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3-Scope Function">
+      <option name="closed" value="true" />
+      <created>1711438547844</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711438547844</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic Function" />
     <MESSAGE value="2-Infix Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="2-Infix Function" />
+    <MESSAGE value="3-Scope Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="3-Scope Function" />
   </component>
 </project>
