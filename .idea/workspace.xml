@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="5-HigherOrderFunction.kt">
+    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="5-HigherOrderFunction.kt güncel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Functions/5-HigherOrderFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/5-HigherOrderFunction.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <recent name="C:\Users\mert_\Documents\GithubProjects\KekodKotlin2024\KekodKotlin\src\main\kotlin\Functions" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin._1_BasicsKt">
     <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Functions.FunctionsKt" />
       <module name="KekodKotlin.main" />
@@ -92,7 +91,8 @@
       <updated>1711343865112</updated>
       <workItem from="1711343866148" duration="15716000" />
       <workItem from="1711429275326" duration="17087000" />
-      <workItem from="1711535490716" duration="7993000" />
+      <workItem from="1711535490716" duration="9868000" />
+      <workItem from="1711643463536" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Function">
       <option name="closed" value="true" />
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711482239443</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="5-HigherOrderFunction.kt güncel">
+      <option name="closed" value="true" />
+      <created>1711553507208</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711553507208</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +154,7 @@
     <MESSAGE value="3-Scope Function" />
     <MESSAGE value="4-Extension Function" />
     <MESSAGE value="5-HigherOrderFunction.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="5-HigherOrderFunction.kt" />
+    <MESSAGE value="5-HigherOrderFunction.kt güncel" />
+    <option name="LAST_COMMIT_MESSAGE" value="5-HigherOrderFunction.kt güncel" />
   </component>
 </project>
