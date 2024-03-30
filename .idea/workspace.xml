@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="6-InlineNoInlineCrossInline.kt">
+    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="6-InlineNoInlineCrossInline.kt updated">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Basics/Turtle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Basics/TurtleJava.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Functions/6-InlineNoInlineCrossInline.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/6-InlineNoInlineCrossInline.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,28 +32,34 @@
   <component name="ProjectId" id="2eAOKtc7X0RcV6uXWPF8bD1hjs2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/mert_/Documents/GithubProjects/KekodKotlin2024/KekodKotlin/src/main/kotlin/OOP/BasicClasses",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mert_\Documents\GithubProjects\KekodKotlin2024\KekodKotlin\src\main\kotlin\OOP\BasicClasses" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mert_\Documents\GithubProjects\KekodKotlin2024\KekodKotlin\src\main\kotlin\Functions" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="OOP.BasicClasses" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1_BasicsKt">
+  <component name="RunManager">
     <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Functions.FunctionsKt" />
       <module name="KekodKotlin.main" />
@@ -95,7 +102,7 @@
       <workItem from="1711535490716" duration="9868000" />
       <workItem from="1711643463536" duration="39000" />
       <workItem from="1711706058121" duration="17335000" />
-      <workItem from="1711794761498" duration="9470000" />
+      <workItem from="1711794761498" duration="18121000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Function">
       <option name="closed" value="true" />
@@ -153,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711741522397</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6-InlineNoInlineCrossInline.kt updated">
+      <option name="closed" value="true" />
+      <created>1711815146550</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711815146550</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +182,7 @@
     <MESSAGE value="5-HigherOrderFunction.kt" />
     <MESSAGE value="5-HigherOrderFunction.kt güncel" />
     <MESSAGE value="6-InlineNoInlineCrossInline.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="6-InlineNoInlineCrossInline.kt" />
+    <MESSAGE value="6-InlineNoInlineCrossInline.kt updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="6-InlineNoInlineCrossInline.kt updated" />
   </component>
 </project>
