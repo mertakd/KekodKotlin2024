@@ -52,13 +52,14 @@ package OOP.Basics
 
  mulakat da ki cevap: değişkeni private yaptığımız da, buna erişen get-set fonksiyonlarını private yapmış oluyoruz. bunun backing field ı public olsa da private
 
- internal: modul ile bir yapı oluşturduğumuz zaman.
+ internal: modul ile bir yapı oluşturduğumuz zaman. modul içerisinde public, modul dışında private.
    */
 
 
 class Turtle constructor(val mName: String = "Tosbik", val mFeetCount:Int = 4) {
 
 
+    //Sadece get ve set fonksiyonlarını değiştiriyoruz field değişmiyor
     var feetColor:String = "Brown"
         set(value) {
             field = value
@@ -95,7 +96,8 @@ class Turtle constructor(val mName: String = "Tosbik", val mFeetCount:Int = 4) {
     }
 
     fun eatMeal(){
-
+        val deneme: String = "asdasdas"
+        //bir class ın member yani üyesi ise property ler, ama bir fonksiyonun içinde kullanıyorsa o zaman direk backing field ları üzerinde çalışıyoruz.
     }
 
     fun walk(){
