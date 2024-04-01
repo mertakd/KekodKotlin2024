@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="Classes Basic">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Encapsulation/Encapsulation.kt" afterDir="false" />
+    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="Encapsulation.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/InheritanceAndPolymorphism/InheritanceAndPolymorphism.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/OOP/Basics/Turtle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Basics/Turtle.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +103,7 @@
       <workItem from="1711706058121" duration="17335000" />
       <workItem from="1711794761498" duration="18168000" />
       <workItem from="1711887463705" duration="7635000" />
-      <workItem from="1711973707947" duration="3601000" />
+      <workItem from="1711973707947" duration="12728000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Function">
       <option name="closed" value="true" />
@@ -178,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711842818264</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Encapsulation.kt">
+      <option name="closed" value="true" />
+      <created>1711983776954</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711983776954</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +201,7 @@
     <MESSAGE value="6-InlineNoInlineCrossInline.kt" />
     <MESSAGE value="6-InlineNoInlineCrossInline.kt updated" />
     <MESSAGE value="Classes Basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Basic" />
+    <MESSAGE value="Encapsulation.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation.kt" />
   </component>
 </project>
