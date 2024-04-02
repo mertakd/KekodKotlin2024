@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="Encapsulation.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/InheritanceAndPolymorphism/InheritanceAndPolymorphism.kt" afterDir="false" />
+    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="InheritanceAndPolymorphism.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Basics/Overview/Overview.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/OwerviewTests.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -33,34 +35,86 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mert_/Documents/GithubProjects/KekodKotlin2024/KekodKotlin/src/main/kotlin/OOP/BasicClasses&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/mert_/Documents/GithubProjects/KekodKotlin2024/KekodKotlin/src/main/kotlin/OOP/BasicClasses",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mert_\Documents\GithubProjects\KekodKotlin2024\KekodKotlin\src\main\kotlin\OOP\BasicClasses" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mert_\Documents\GithubProjects\KekodKotlin2024\KekodKotlin\src\main\kotlin\Basics\Overview" />
       <recent name="C:\Users\mert_\Documents\GithubProjects\KekodKotlin2024\KekodKotlin\src\main\kotlin\Functions" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="OOP.BasicClasses" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1_BasicsKt">
-    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.FunctionsKt" />
+  <component name="RunManager" selected="Gradle.Test.testCreateNameReturnsNonEmptyString">
+    <configuration name="Test.testCreateNameReturnsNonEmptyString" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Test.testCreateNameReturnsNonEmptyString&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test.testCreateNameReturnsString" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Test.testCreateNameReturnsString&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="OverviewKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.Overview.OverviewKt" />
       <module name="KekodKotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,9 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Test.testCreateNameReturnsNonEmptyString" />
+        <item itemvalue="Gradle.Test.testCreateNameReturnsString" />
+        <item itemvalue="Kotlin.OverviewKt" />
         <item itemvalue="Kotlin._4_ExtensionFunctionKt" />
         <item itemvalue="Kotlin._1_BasicsKt" />
-        <item itemvalue="Kotlin.FunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +159,9 @@
       <workItem from="1711706058121" duration="17335000" />
       <workItem from="1711794761498" duration="18168000" />
       <workItem from="1711887463705" duration="7635000" />
-      <workItem from="1711973707947" duration="12728000" />
+      <workItem from="1711973707947" duration="17318000" />
+      <workItem from="1712059836015" duration="6966000" />
+      <workItem from="1712087042780" duration="4685000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Function">
       <option name="closed" value="true" />
@@ -185,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711983776954</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="InheritanceAndPolymorphism.kt">
+      <option name="closed" value="true" />
+      <created>1711998034307</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711998034307</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +268,7 @@
     <MESSAGE value="6-InlineNoInlineCrossInline.kt updated" />
     <MESSAGE value="Classes Basic" />
     <MESSAGE value="Encapsulation.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation.kt" />
+    <MESSAGE value="InheritanceAndPolymorphism.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="InheritanceAndPolymorphism.kt" />
   </component>
 </project>
