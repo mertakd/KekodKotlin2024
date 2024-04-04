@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="nullable">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Basics/Numbers/1-Numbers.kt" afterDir="false" />
+    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="1-Numbers.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Basics/Characters/3-Characters.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="package-info" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -65,7 +66,7 @@
       <recent name="OOP.BasicClasses" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1_NumbersKt">
+  <component name="RunManager" selected="Kotlin._3_CharactersKt">
     <configuration name="SimpleNullPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.Nullables.SimpleNullPointer" />
       <module name="KekodKotlin.main" />
@@ -127,13 +128,6 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="OverviewKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.Overview.OverviewKt" />
-      <module name="KekodKotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_1_NumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.Numbers._1_NumbersKt" />
       <module name="KekodKotlin.main" />
@@ -141,13 +135,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_3_CharactersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.Characters._3_CharactersKt" />
+      <module name="KekodKotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._3_CharactersKt" />
         <item itemvalue="Kotlin._1_NumbersKt" />
         <item itemvalue="Application.SimpleNullPointer" />
         <item itemvalue="Gradle.Test.testCreateNameReturnsNonEmptyString" />
         <item itemvalue="Gradle.Test.testCreateNameReturnsString" />
-        <item itemvalue="Kotlin.OverviewKt" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +170,8 @@
       <workItem from="1711973707947" duration="17318000" />
       <workItem from="1712059836015" duration="6966000" />
       <workItem from="1712087042780" duration="10701000" />
-      <workItem from="1712145794390" duration="9355000" />
+      <workItem from="1712145794390" duration="9997000" />
+      <workItem from="1712243228816" duration="6468000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Function">
       <option name="closed" value="true" />
@@ -275,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712103534591</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1-Numbers.kt">
+      <option name="closed" value="true" />
+      <created>1712157732737</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712157732737</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +305,7 @@
     <MESSAGE value="InheritanceAndPolymorphism.kt" />
     <MESSAGE value="val/var, unit test" />
     <MESSAGE value="nullable" />
-    <option name="LAST_COMMIT_MESSAGE" value="nullable" />
+    <MESSAGE value="1-Numbers.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-Numbers.kt" />
   </component>
 </project>
