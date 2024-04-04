@@ -46,7 +46,7 @@ package Basics.Characters
  *
  * */
 
-fun main() {
+private fun mainSmartCasting() {
 
     val x:Any = "Mert"
 
@@ -62,4 +62,87 @@ fun main() {
     if(y is Int){
         println("Sonuç: $y ")
     }
+
+
+    val result = Byte.MAX_VALUE + Byte.MAX_VALUE  //Int olurken
+    val result2 = Int.MAX_VALUE + Long.MAX_VALUE  // burası long oluyor.
+    println(result::class.simpleName)
+    println(result2::class.simpleName)
+}
+
+
+
+
+
+
+
+
+/**
+ * Characters
+ *
+ * Tek tırnakların arasında harf, sayı, escape char ya da unicode yazarak kullanılır.
+ * Çift tınak içerisinde yazılırsa String olur, Char olmaz.
+ *
+ *
+ *
+ *
+ * */
+
+
+fun main() {
+
+    val firstCharOfName: Char = 'G'
+    //val firstCharOfName2: Char = "G"        hata verir
+    //val firstCharOfName3: Char = 'Gö'       hata verir
+    val charNumber1: Char = '6'
+    //val charNumber2: Char = '53'      hata verir
+
+
+    val asciiChar = charNumber1.toInt() //deprecated kodun üzerine tıkla ne ile değiştiğini gösterir
+    val asciiChar2 = charNumber1.code
+    println("toInt() ile $asciiChar     code ile $asciiChar2")  //ASCII karakter tablosunda ki karşılığını verir
+
+    val digitToInt = charNumber1.digitToInt() //ASCII tablosunda ki karşılığını değil de hangi değer verildiyse onla işlem yapmak istiyorsak digitToInt() kullanırız.
+    println(digitToInt)
+
+
+
+
+
+
+
+    /**
+     * Escape karakterlerini de tanimlamak icin kullanilir.
+     */
+    val exampleString = "Kotlin escape karakterleri ornekleri\n" +
+            "\t \\t ile bir tab bosluk ekleyebilirsiniz\n" +
+            "\t \\n ile yeni bir satira gecebilirsiniz\n" +
+            "\t \\b ile bir backspace(geri al) islemi yapabilirsiniz\n" +
+            "\t \\r ile satir basina donebilirsiniz.\n" +
+            "\t \\' ile tek tirnak(') karakterini kullanabilirsiniz.\n" +
+            "\t \\\" ile cift tirnak(\") karakterini kullanabilirsiniz.\n" +
+            "\t \\\\ ile ters slash(\\) karakterini kullanabilirsiniz.\n" +
+            "\t \\\$ ile dolar isaretini ($) kullanabilirsiniz."
+
+    println(exampleString)
+
+
+
+
+    print('\t') // makes a tab
+    print('a')  // prints 'a'
+    print('\n') // goes to a new line
+    print('c')  // prints 'c'
+
+
+
+
+    val ch = '\u0040' // it represents '@'
+    println(ch) // @
+
+
+
+    val ch1 = 'b'
+    val ch2 = ch1 + 1 // 'c'
+    val ch3 = ch2 - 2 // 'a'
 }
