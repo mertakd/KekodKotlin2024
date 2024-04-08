@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="InheritanceAndPolymorphism.kt">
+    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="Inheritance.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/InheritanceAndPolymorphism/ClassesContinue/Properties.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/OOP/InheritanceAndPolymorphism/ClassesContinue/Inheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/InheritanceAndPolymorphism/ClassesContinue/Inheritance.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +155,8 @@
       <workItem from="1712087042780" duration="10701000" />
       <workItem from="1712145794390" duration="9997000" />
       <workItem from="1712243228816" duration="13350000" />
-      <workItem from="1712503797607" duration="9955000" />
+      <workItem from="1712503797607" duration="12201000" />
+      <workItem from="1712594639890" duration="3900000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Function">
       <option name="closed" value="true" />
@@ -293,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712521059556</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Inheritance.kt">
+      <option name="closed" value="true" />
+      <created>1712531370319</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712531370319</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +325,7 @@
     <MESSAGE value="Stack and Heap" />
     <MESSAGE value="Characters" />
     <MESSAGE value="InheritanceAndPolymorphism.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="InheritanceAndPolymorphism.kt" />
+    <MESSAGE value="Inheritance.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance.kt" />
   </component>
 </project>
