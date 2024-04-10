@@ -258,6 +258,7 @@ fun main() {
      */
 
     fun printAllStrings(vararg strings: String) {
+
         for (string in strings) {
             print(string)
         }
