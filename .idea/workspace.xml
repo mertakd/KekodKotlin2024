@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="Arrays">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Basics/Range/Range.kt" afterDir="false" />
+    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="Range.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Abstraction/AbstractClass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basics/Arrays/6-Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Basics/Arrays/Arrays.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basics/Boolean/4-Boolean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Basics/Boolean/Boolean.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basics/Characters/3-Characters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Basics/Characters/Characters.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basics/Nullables/8-Nullables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Basics/Nullables/Nullables.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basics/Numbers/1-Numbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Basics/Numbers/NumbersAndTypeConversion.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basics/String/5-String.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Basics/String/Strings.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,33 +39,33 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build KekodKotlin.executor": "Run",
-    "Kotlin.RangeKt.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mert_/Documents/GithubProjects/Andromeda",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build KekodKotlin.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.RangeKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mert_/Documents/GithubProjects/Andromeda&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "kotlin-gradle-user-dirs": [
-      "C:\\Users\\mert_\\.gradle"
+  &quot;keyToStringList&quot;: {
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;C:\\Users\\mert_\\.gradle&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mert_\Documents\GithubProjects\KekodKotlin2024\KekodKotlin\src\main\kotlin\OOP\BasicClasses" />
@@ -125,7 +119,6 @@
       <list>
         <item itemvalue="Kotlin.RangeKt" />
         <item itemvalue="Kotlin.ArraysSimpleKt" />
-        <item itemvalue="Kotlin._6_ArraysKt" />
         <item itemvalue="Kotlin.StringsKt" />
         <item itemvalue="Kotlin.InheritanceKt" />
       </list>
@@ -166,7 +159,8 @@
       <workItem from="1712718488171" duration="795000" />
       <workItem from="1712721013499" duration="711000" />
       <workItem from="1712722366871" duration="616000" />
-      <workItem from="1712723911542" duration="5206000" />
+      <workItem from="1712723911542" duration="6091000" />
+      <workItem from="1713128946029" duration="6427000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Function">
       <option name="closed" value="true" />
@@ -344,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712660866046</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Range.kt">
+      <option name="closed" value="true" />
+      <created>1712734584177</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1712734584177</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,6 +374,7 @@
     <MESSAGE value="4-Boolean.kt" />
     <MESSAGE value="6-String.kt" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Range.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Range.kt" />
   </component>
 </project>
