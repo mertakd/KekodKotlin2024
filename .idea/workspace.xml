@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="Range.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Abstraction/AbstractClass.kt" afterDir="false" />
+    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="AbstractClass.kt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/OOP/Abstraction/AbstractClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Abstraction/AbstractClass.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +160,9 @@
       <workItem from="1712721013499" duration="711000" />
       <workItem from="1712722366871" duration="616000" />
       <workItem from="1712723911542" duration="6091000" />
-      <workItem from="1713128946029" duration="6427000" />
+      <workItem from="1713128946029" duration="6463000" />
+      <workItem from="1713145611590" duration="1367000" />
+      <workItem from="1713221441320" duration="5727000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Function">
       <option name="closed" value="true" />
@@ -346,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712734584177</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="AbstractClass.kt">
+      <option name="closed" value="true" />
+      <created>1713140302243</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1713140302243</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,6 +385,7 @@
     <MESSAGE value="6-String.kt" />
     <MESSAGE value="Arrays" />
     <MESSAGE value="Range.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Range.kt" />
+    <MESSAGE value="AbstractClass.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="AbstractClass.kt" />
   </component>
 </project>
