@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="AbstractClass.kt">
+    <list default="true" id="fdcd6204-3af5-4a88-8c04-9485df6a80ae" name="Changes" comment="Abstract class">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Abstraction/Interfaces.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/OOP/Abstraction/AbstractClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Abstraction/AbstractClass.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +162,7 @@
       <workItem from="1712723911542" duration="6091000" />
       <workItem from="1713128946029" duration="6463000" />
       <workItem from="1713145611590" duration="1367000" />
-      <workItem from="1713221441320" duration="5727000" />
+      <workItem from="1713221441320" duration="9863000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Function">
       <option name="closed" value="true" />
@@ -356,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713140302243</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Abstract class">
+      <option name="closed" value="true" />
+      <created>1713229632236</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1713229632236</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,6 +394,7 @@
     <MESSAGE value="Arrays" />
     <MESSAGE value="Range.kt" />
     <MESSAGE value="AbstractClass.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="AbstractClass.kt" />
+    <MESSAGE value="Abstract class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract class" />
   </component>
 </project>
